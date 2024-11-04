@@ -33,6 +33,17 @@
 - ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
  ![Apifox](https://img.shields.io/badge/Apifox-2B2D42?style=flat-square&logo=apifox&logoColor=white)
 
+### 快速建站工具
+- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white)
+  ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=Shopify&logoColor=white)
+
+## 经验
+- 有海外独立站开发经验
+- 前后端分离经验
+- 性能优化经验
+- 能够使用快速建站工具搭建网站
+
+
 # Stats 
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=wang060502.wang060502)](https://visitor-badge.laobi.icu/badge?page_id=wang060502.wang060502)
