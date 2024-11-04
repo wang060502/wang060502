@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/wang060502">wang</a> 👋</h1>
 
-<a href="https://github.com/wang060502"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="255"/></a>
+
+
+
+
 
 ## 技术栈
 
@@ -12,6 +15,9 @@
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+<a href="https://github.com/wang060502"><img src="https://github.com/user-attachments/assets/baaae3ed-62c6-4330-990b-f0881f760c60" align="right" height="255"/></a>
+
 
 ### 前端框架
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
@@ -25,6 +31,8 @@
  ![Element UI](https://img.shields.io/badge/Element%20UI-2C3E50?style=flat-square)
  ![Vant UI](https://img.shields.io/badge/Vant%20UI-2C3E50?style=flat-square)
  ![ECharts](https://img.shields.io/badge/ECharts-FF6A00?style=flat-square&logo=echarts)
+
+ <a href="https://github.com/wang060502"><img src="https://github.com/user-attachments/assets/82f8ff56-1856-46e1-8e8f-e21b84446cbf" align="right" height="255"/></a>
 
 ### 数据库
 - ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
@@ -42,6 +50,8 @@
 - 前后端分离经验
 - 性能优化经验
 - 能够使用快速建站工具搭建网站
+
+
 
 
 # Stats 
