@@ -16,5 +16,8 @@
 
 - ![VsCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white) 
   ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
-  
+  ### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/`wang060502`-github-readme)
+<img src="https://github-readme-stats.vercel.app/api?username=`wang060502`&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false
+
+
 <br/>
