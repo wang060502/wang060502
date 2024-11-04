@@ -1,23 +1,39 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/wang060502">wang</a> 👋</h1>
 
-<!-- #  My Tech Stack -->
+<a href="https://github.com/wang060502"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="255"/></a>
 
-<br/>wang
-<!-- <a href="https://github.com/solmp"><img src="https://cdn.jsdelivr.net/gh/solmp/imgurl/icon/202110171435495.gif" align="right" height="180"/></a> -->
-<a href="https://github.com/solmp"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="255"/></a>
- 
+## 技术栈
+
+### 基础语言
 - ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-  
-- <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" >
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="nodejs" src="https://img.shields.io/badge/-nodejs-CB3837?style=flat-square&logo=npm&logoColor=white" />
+ ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
+ ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-- ![VsCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white) 
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
-<a title="Top Langs"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wang060502&exclude_repo=jekyll-TeXt-theme-template,wang060502.github.io&layout=compact
-&langs_count=6"/></a>
+### 前端框架
+- ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
 
+### 后端框架
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+ ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 
-<br/>
+### 组件库
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%2338B2A3?style=flat-square&logo=bootstrap)
+ ![Element UI](https://img.shields.io/badge/Element%20UI-2C3E50?style=flat-square)
+ ![Vant UI](https://img.shields.io/badge/Vant-2C3E50?style=flat-square)
+ ![ECharts](https://img.shields.io/badge/ECharts-FF6A00?style=flat-square&logo=echarts)
+
+### 数据库
+- ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+
+### 常用软件
+- ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+# Stats 
+
+[![](https://visitor-badge.laobi.icu/badge?page_id=wang060502.wang060502)](https://visitor-badge.laobi.icu/badge?page_id=wang060502.wang060502)
+<p align="left">
+  <img align="" height="135px" src="https://github-readme-stats-solmp.vercel.app/api?username=wang060502&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+  <img align="" height="135px" src="https://github-readme-stats-solmp.vercel.app/api/top-langs/?username=wang060502&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+</p>
