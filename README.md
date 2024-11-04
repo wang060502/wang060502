@@ -10,6 +10,8 @@
  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+ ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### 前端框架
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
@@ -21,7 +23,7 @@
 ### 组件库
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%2338B2A3?style=flat-square&logo=bootstrap)
  ![Element UI](https://img.shields.io/badge/Element%20UI-2C3E50?style=flat-square)
- ![Vant UI](https://img.shields.io/badge/Vant-2C3E50?style=flat-square)
+ ![Vant UI](https://img.shields.io/badge/Vant%20UI-2C3E50?style=flat-square)
  ![ECharts](https://img.shields.io/badge/ECharts-FF6A00?style=flat-square&logo=echarts)
 
 ### 数据库
@@ -29,6 +31,7 @@
 
 ### 常用软件
 - ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
+ ![Apifox](https://img.shields.io/badge/Apifox-2B2D42?style=flat-square&logo=apifox&logoColor=white)
 
 # Stats 
 
