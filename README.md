@@ -12,9 +12,10 @@
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-<a href="https://github.com/wang060502"><img src="https://github.com/user-attachments/assets/baaae3ed-62c6-4330-990b-f0881f760c60" align="right" height="255"/></a>
+
 
 ### 前端框架
+  <a href="https://github.com/wang060502"><img src="https://github.com/user-attachments/assets/baaae3ed-62c6-4330-990b-f0881f760c60" align="right" height="255"/></a>
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
 
 ### 后端框架
@@ -27,10 +28,11 @@
  ![Vant UI](https://img.shields.io/badge/Vant%20UI-2C3E50?style=flat-square)
  ![ECharts](https://img.shields.io/badge/ECharts-FF6A00?style=flat-square&logo=echarts)
 
-<a href="https://github.com/wang060502"><img src="https://github.com/user-attachments/assets/82f8ff56-1856-46e1-8e8f-e21b84446cbf" align="right" height="255"/></a>
 
 ### 数据库
 - ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+  
+<a href="https://github.com/wang060502"><img src="https://github.com/user-attachments/assets/82f8ff56-1856-46e1-8e8f-e21b84446cbf" align="right" height="255"/></a>
 
 ### 常用软件
 - ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
