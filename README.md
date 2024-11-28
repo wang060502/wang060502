@@ -4,7 +4,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+home+page!;Welcome+to+my+home+page!" />
 </p>
-## 技术栈
+
+### 技术栈
 
 ### 基础语言
 - ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
