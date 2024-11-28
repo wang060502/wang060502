@@ -48,11 +48,6 @@
 - ![Ajax](https://img.shields.io/badge/Ajax-007ACC?style=flat-square)
  ![Axios](https://img.shields.io/badge/Axios-5A29E3?style=flat-square&logo=axios)
 
-## 经验
-- 有海外独立站开发经验
-- 前后端分离经验
-- 性能优化经验
-- 能够使用快速建站工具搭建网站
 
 # Stats 
 
