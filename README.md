@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/wang060502">wang</a> 👋</h1>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Wang👋&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=HI,I'%20m%20Wang👋&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
-
 ## 技术栈
 
 ### 基础语言
