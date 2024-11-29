@@ -30,7 +30,7 @@
  ![Element UI](https://img.shields.io/badge/Element%20UI-2C3E50?style=flat-square)
  ![Vant UI](https://img.shields.io/badge/Vant%20UI-2C3E50?style=flat-square)
  ![ECharts](https://img.shields.io/badge/ECharts-FF6A00?style=flat-square&logo=echarts)
-
+ ![OpenTiny](https://img.shields.io/badge/OpenTiny-007AFF?style=flat-square)
 
 ### 数据库
 - ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
